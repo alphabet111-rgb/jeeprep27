@@ -2,7 +2,7 @@
 
 A clean, distraction-free daily planner and question tracker built for JEE 2027 aspirants.
 
-Live App: **[jeeprep27.vercel.app](https://jeeprep27.vercel.app/)**
+Live App: **[jee27prep.vercel.app](https://jee27prep.vercel.app/)**
 
 ---
 
