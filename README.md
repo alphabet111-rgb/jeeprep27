@@ -5,6 +5,10 @@
 **Live Application:** [jee27prep.vercel.app](https://jee27prep.vercel.app/)  
 **Repository:** [github.com/alphabet111-rgb/jeeprep27](https://github.com/alphabet111-rgb/jeeprep27)
 
+<p align="center">
+  <img src="public/app-preview.png" alt="JEE Prep 2027 Dashboard Preview" width="850" />
+</p>
+
 ---
 
 ## Overview
